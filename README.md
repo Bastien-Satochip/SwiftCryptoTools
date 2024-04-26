@@ -32,12 +32,12 @@ These explorers are derived from the *BaseExplorer* class and provide different 
 
 Explorer classes use API from the following services:
 * [Blockstream](https://blockstream.com/)
-* Sochain](https://sochain.com/)
-* Fullstack](https://fullstack.cash/)
-* Etherscan](https://etherscan.io/)
-* Rarible](https://rarible.com/)
-* Opensea](https://opensea.io/)
-* Coingecko](https://www.coingecko.com/)
+* [Sochain](https://sochain.com/)
+* [Fullstack](https://fullstack.cash/)
+* [Etherscan](https://etherscan.io/)
+* [Rarible](https://rarible.com/)
+* [Opensea](https://opensea.io/)
+* [Coingecko](https://www.coingecko.com/)
 
 These APIs are used to get info such as balances, NFT name, description and image preview.
 
